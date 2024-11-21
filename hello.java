@@ -4,5 +4,6 @@ public class hello {
         String str = "hekki";
         
         System.err.println("hello");
+        System.err.println("hel");
     }
 }
